@@ -1,0 +1,7 @@
+{
+  "inputs": {
+    "now": "2026-11-07T15:55:41.939Z",
+    "open_issues": []
+  },
+  "output_description": "Submit JSON with exactly title, body and labels for the new issue. Use the original Markdown checklist text."
+}
